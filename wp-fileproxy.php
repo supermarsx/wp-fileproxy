@@ -1,5 +1,5 @@
 $cfg = [
-  "errors" => true, // Enable error reporting
+  "errors" => false, // Enable error reporting
   "wp" => true, // Enable Wordpress core, auth, etc
   "wp_themes" => false, // Enable Wordpress theme
   "wp-load_path" => "./wp-load.php", // wp-load.php relative path
