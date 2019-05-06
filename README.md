@@ -28,4 +28,4 @@ A. Yes, theres plenty of alternatives on the internet.
 
 ## License
 
-Distributed unde MIT License. See `license.md` for more information.
+Distributed under MIT License. See `license.md` for more information.
