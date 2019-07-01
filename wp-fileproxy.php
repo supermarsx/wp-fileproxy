@@ -1,3 +1,5 @@
+<?php 
+
 $cfg = [
   "errors" => false, // Enable error reporting
   "wp" => true, // Enable Wordpress core, auth, etc
@@ -44,3 +46,5 @@ curl_setopt($proxy["curl"], CURLOPT_FILE, $proxy["file"]);
 curl_exec($proxy["curl"]);
 curl_close($proxy["curl"]);
 fclose($proxy["file"]);
+
+?>
