@@ -15,7 +15,7 @@ $cfg = [
 ];
 
 $proxy = [
-  "parameter" => $_GET[$cfg["get_param"], // Proxy GET parameter
+  "parameter" => $_GET[$cfg["get_param"]], // Proxy GET parameter
   "url" => null, // URL to be proxied
   "file" => null, // Proxy file handler
   "curl" => null, // CURL handler
