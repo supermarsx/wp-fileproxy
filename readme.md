@@ -1,5 +1,7 @@
 # wp-fileproxy
 
+``` Descontinued, unsure if still works ```
+
 wp-fileproxy is a simple php reverse proxy that allows to download remote files on demand to your local server filesystem. This can be used standalone or plugged into a Wordpress installation as user access control, it can also be customized to plug with additional pieces of software such as pdf.js.
 
 This script requires PHP, cURL and appropriate write permissions.
